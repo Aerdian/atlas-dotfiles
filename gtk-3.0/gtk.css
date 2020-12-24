@@ -1,0 +1,24 @@
+/*
+==========================================================
+
+     ██████╗ ████████╗██╗  ██╗  ██████╗
+    ██╔════╝ ╚══██╔══╝██║ ██╔╝  ╚════██╗
+    ██║  ██╗    ██║   █████═╝    █████╔╝
+    ██║  ╚██╗   ██║   ██╔═██╗    ╚═══██╗
+    ╚██████╔╝   ██║   ██║ ╚██╗  ██████╔╝
+     ╚═════╝    ╚═╝   ╚═╝  ╚═╝  ╚═════╝
+
+    Created by Ian Cox (Aerdian)
+    GTK 3.0 configuration file for Atlas.
+    Information and support: https://aerdian.com/atlas-dotfiles
+    Last updated: 2020-12-24
+ 
+==========================================================
+*/
+
+/* Terminal padding */
+VteTerminal, vte-terminal {
+padding: 60px;
+}
+
+/* EOF */

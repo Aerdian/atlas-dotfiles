@@ -3,8 +3,8 @@
 background = #2c363f
 foreground = #626c7a
 primary = #ffae34
-secondary = #ff8a34
-alert = #dc6b7b 
+secondary = #f29100
+alert = #d94846 
 
 [bar/diligord]
 width = 100%

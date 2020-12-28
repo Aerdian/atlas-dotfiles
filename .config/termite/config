@@ -1,0 +1,36 @@
+[options]
+allow_bold = true
+cell_height_scale = 1.0
+clickable_url = true
+font = Fantasque Sans Mono 18
+mouse_autohide = true
+scroll_on_keystroke = true
+scrollback_lines = 10000
+browser = firefox
+cursor_blink = system
+cursor_shape = block
+scrollbar = off
+
+[colors]
+foreground      = #ffffff
+foreground_bold = #ffffff
+cursor          = #ffffff
+background      = #2c363f
+highlight	= #718298
+
+color0 = #4a535d
+color1 = #4c575f
+color2 = #5f6a74
+color3 = #718298
+color4 = #626c7a
+color5 = #7e8794
+color6 = #aab2be
+color7 = #ffffff
+color8 = #ffae34
+color9 = #657ed4
+color10 = #dc6b7b
+color11 = #8daa9d
+color12 = #d2b365
+color13 = #7cb775
+color14 = #ff9034
+color15 = #ffae34

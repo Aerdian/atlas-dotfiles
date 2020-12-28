@@ -16,21 +16,36 @@ foreground      = #ffffff
 foreground_bold = #ffffff
 cursor          = #ffffff
 background      = #2c363f
-highlight	= #718298
+highlight	= #626c7a
 
-color0 = #4a535d
-color1 = #4c575f
-color2 = #5f6a74
-color3 = #718298
-color4 = #626c7a
-color5 = #7e8794
-color6 = #aab2be
-color7 = #ffffff
-color8 = #ffae34
-color9 = #657ed4
-color10 = #dc6b7b
-color11 = #8daa9d
-color12 = #d2b365
-color13 = #7cb775
-color14 = #ff9034
-color15 = #ffae34
+# grey
+color0  = #4d5560
+color8  = #626c7a
+
+# red
+color1  = #d94846
+color9  = #dd5e5b
+
+# muted yellow
+color2  = #e5a641
+color10 = #efc88b
+
+# yellow
+color3  = #f29100
+color11 = #ffae34
+
+# blue
+color4  = #509dc6
+color12 = #86bbd8
+
+# orange
+color5  = #e35e0c
+color13 = #f5853f
+
+# green
+color6  = #70a272
+color14 = #9dbf9e
+
+# light
+color7  = #d7bba8
+color15 = #dec6b7

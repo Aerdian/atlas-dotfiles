@@ -68,7 +68,7 @@ ENABLE_CORRECTION="true"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git archlinux command-not-found man zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git archlinux command-not-found man zsh-autosuggestions zsh-syntax-highlighting zsh-256color)
 
 source $ZSH/oh-my-zsh.sh
 

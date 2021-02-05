@@ -48,6 +48,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
+setxkbmap -option caps:escape
 nitrogen --restore &
 xsetroot -cursor_name left_ptr
 xset s off -dpms

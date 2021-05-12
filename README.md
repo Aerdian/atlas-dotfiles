@@ -17,7 +17,7 @@ Here are the dotfiles for my latest setup. You are free to play with the dotfile
 - OS: Arch
 - WM: [BSPWM](https://github.com/baskerville/bspwm)
 - Terminal: [Termite](https://github.com/thestinger/termite/) (RIP)
-- Shell: zsh
+- Shell: zsh with [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - Bar: [Polybar](https://github.com/polybar/polybar)
 - Colorscheme: [Diligord](https://github.com/Aerdian/diligord) (custom)
 - Application Launcher: [Rofi](https://github.com/davatorium/rofi)

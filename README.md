@@ -4,7 +4,6 @@ description: repository to manage and share personal dotfiles
 author: Ian Cox
 created:  2019 Dec 31
 modified: 2021 May 12
-
 ---
 
 # Atlas
@@ -17,14 +16,14 @@ Here are the dotfiles for my latest setup. You are free to play with the dotfile
 
 - OS: Arch
 - WM: BSPWM
-Terminal: Termite (RIP)
-Shell: zsh
-Bar: Polybar
-Application Launcher: Rofi
-Font: Fantasque Sans Mono
-Colorscheme: Diligord (custom)
-Web Browser: Vivaldi
-Compositor: Picom
-File Manager: Ranger
-Editor: Visual Studio Code and Vim
+- Terminal: Termite (RIP)
+- Shell: zsh
+- Bar: Polybar
+- Application Launcher: Rofi
+- Font: Fantasque Sans Mono
+- Colorscheme: Diligord (custom)
+- Web Browser: Vivaldi
+- Compositor: Picom
+- File Manager: Ranger
+- Editor: Visual Studio Code and Vim
 

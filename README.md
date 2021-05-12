@@ -12,18 +12,18 @@ Here are the dotfiles for my latest setup. You are free to play with the dotfile
 
 ![2021-05-12-140701_3840x2160_scrot](https://user-images.githubusercontent.com/30437001/118031212-e6ad1300-b32b-11eb-95d6-5f1e8a3d8944.png)
 
-# Info
+## Info
 
 - OS: Arch
-- WM: BSPWM
-- Terminal: Termite (RIP)
+- WM: [BSPWM](https://github.com/baskerville/bspwm)
+- Terminal: [Termite](https://github.com/thestinger/termite/) (RIP)
 - Shell: zsh
-- Bar: Polybar
-- Application Launcher: Rofi
-- Font: Fantasque Sans Mono
-- Colorscheme: Diligord (custom)
+- Bar: [Polybar](https://github.com/polybar/polybar)
+- Colorscheme: [Diligord](https://github.com/Aerdian/diligord) (custom)
+- Application Launcher: [Rofi](https://github.com/davatorium/rofi)
+- Font: [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 - Web Browser: Vivaldi
-- Compositor: Picom
-- File Manager: Ranger
+- Compositor: [Picom](https://github.com/yshui/picom)
+- File Manager: [Ranger](https://github.com/ranger/ranger)
 - Editor: Visual Studio Code and Vim
 

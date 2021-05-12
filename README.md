@@ -15,8 +15,8 @@ Here are the dotfiles for my latest setup. You are free to play with the dotfile
 
 # Info
 
-OS: Arch
-WM: BSPWM
+- OS: Arch
+- WM: BSPWM
 Terminal: Termite (RIP)
 Shell: zsh
 Bar: Polybar

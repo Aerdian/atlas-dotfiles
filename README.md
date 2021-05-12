@@ -20,6 +20,7 @@ Here are the dotfiles for my latest setup. You are free to play with the dotfile
 - Shell: zsh with [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - Bar: [Polybar](https://github.com/polybar/polybar)
 - Colorscheme: [Diligord](https://github.com/Aerdian/diligord) (custom)
+- Wallpaper: [Here](https://wall.alphacoders.com/big.php?i=699273)
 - Application Launcher: [Rofi](https://github.com/davatorium/rofi)
 - Font: [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 - Web Browser: Vivaldi

@@ -10,7 +10,7 @@ modified: 2021 May 12
 
 Here are the dotfiles for my latest setup. You are free to play with the dotfiles for your own system, but know that this is intended for my system and that it may not work correctly on yours. I am happy to help answer any questions, though.
 
-![2021-05-12-140701_3840x2160_scrot](https://user-images.githubusercontent.com/30437001/118031212-e6ad1300-b32b-11eb-95d6-5f1e8a3d8944.png)
+![2021-05-12-152540_3840x2160_scrot](https://user-images.githubusercontent.com/30437001/118039414-edd91e80-b335-11eb-8b52-eac59b347582.png)
 
 ## Info
 
@@ -21,6 +21,8 @@ Here are the dotfiles for my latest setup. You are free to play with the dotfile
 - Bar: [Polybar](https://github.com/polybar/polybar)
 - Colorscheme: [Diligord](https://github.com/Aerdian/diligord) (custom)
 - Wallpaper: [Here](https://wall.alphacoders.com/big.php?i=699273)
+- Clock: [tty-clock](https://github.com/xorg62/tty-clock)
+- Fetch: [afetch](https://github.com/13-CF/afetch)
 - Application Launcher: [Rofi](https://github.com/davatorium/rofi)
 - Font: [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 - Web Browser: Vivaldi

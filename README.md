@@ -2,7 +2,7 @@
 title: atlas-dotfiles
 description: repository to manage and share personal dotfiles
 author: Ian Cox
-created:  2019 Dec 31
+created:  2020 Dec 24
 modified: 2021 May 12
 ---
 

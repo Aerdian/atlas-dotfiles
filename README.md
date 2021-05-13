@@ -20,7 +20,6 @@ Here are the dotfiles for my latest setup. You are free to play with the dotfile
 - Shell: zsh with [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - Bar: [Polybar](https://github.com/polybar/polybar)
 - Colorscheme: [Diligord](https://github.com/Aerdian/diligord) (custom)
-- Wallpaper: [Here](https://wall.alphacoders.com/big.php?i=699273)
 - Clock: [tty-clock](https://github.com/xorg62/tty-clock)
 - Fetch: [afetch](https://github.com/13-CF/afetch)
 - Application Launcher: [Rofi](https://github.com/davatorium/rofi)

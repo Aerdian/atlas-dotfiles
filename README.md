@@ -8,7 +8,7 @@ modified: 2021 May 12
 
 # Atlas
 
-Here are the dotfiles for my latest setup. You are free to play with the dotfiles for your own system, but know that this is intended for my system and that it may not work correctly on yours. I am happy to help answer any questions, though.
+Here are the dotfiles for one of my old setups on a computer I don't have anymore. You are free to play with the dotfiles for your own system, but know that this is intended for the system it was built for and that it may not work correctly on yours. I am happy to help answer any questions, though.
 
 ![2021-05-12-152540_3840x2160_scrot](https://user-images.githubusercontent.com/30437001/118039414-edd91e80-b335-11eb-8b52-eac59b347582.png)
 
